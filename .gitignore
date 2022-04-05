@@ -1,0 +1,11 @@
+
+Saam/cript
+Saam/ban
+*.dll
+*.pdb
+*.cache
+*.dll
+*.publishsettings
+*Debug*
+*Release*
+*.pubxml*
